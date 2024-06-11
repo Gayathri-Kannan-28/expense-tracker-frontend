@@ -1,0 +1,103 @@
+:root {
+  font-family: Inter, system-ui, Avenir, Helvetica, Arial, sans-serif;
+  line-height: 1.5;
+  font-weight: 400;
+
+}
+.whole{
+  background-color:blanchedalmond;
+  background-position: fixed;
+}
+#title{
+  padding-left:35%;
+}
+.form{
+  max-width:35%;  
+  display:flex;
+  margin:10px auto; 
+  border-radius: 10px ;
+  border:2px solid black;
+  padding:30px;
+  background-color:white;
+  justify-content: space-evenly;
+}
+#det{
+  margin:2%;
+  padding:2%;
+}
+#spaces{
+  width:400px;
+  padding:8px;
+}
+#space1{
+  width:400px;
+  padding:8px;
+}
+
+#btn{
+  left:30px;
+}
+.body{
+  max-width:40%;  
+  display:flex;
+  margin:20px auto; 
+  border-radius: 10px ;
+  border:2px solid black;
+  justify-content: space-evenly;
+
+ }
+ .inc
+{
+  margin:3%;
+  padding :2%;
+ 
+}
+.exp{
+  margin:3%;
+  padding:2%;
+  
+}
+.expense{
+  display:flex;
+  width:40%;
+  justify-content: space-evenly;
+  border:2px solid black;
+  margin:20px auto;
+  border-radius: 30px;
+  
+
+}
+.positive{
+  background-color:lightgreen;
+  max-width:40%; 
+  margin:20px auto;
+  display:flex; 
+border-radius: 20px;
+ 
+}
+.negative{
+  background-color:red;
+  max-width:40%; 
+  margin:20px auto;
+  display:flex;
+  justify-content: space-evenly;
+  border-radius: 20px;
+
+}
+#det{
+  justify-content: center;
+}
+#del{
+  border:2px solid black;
+  margin:30px;
+  }
+  .btn{
+    margin-left: 35%;
+    height:10%;
+    margin-top:5%;
+    background-color: aquamarine;
+  }
+  #edit{
+    border:2px solid black;
+    margin:30px;
+  }
